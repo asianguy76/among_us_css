@@ -16,7 +16,7 @@ html {
 
 .body {
 	position: relative;
-	margin: 100px 150px;
+	margin: 0 auto;
 	width: 155px;
 	height: 230px;
 	background-color: var(--base-color);
